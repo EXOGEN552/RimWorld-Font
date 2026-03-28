@@ -25,4 +25,4 @@ EN: Anyone can contribute and add more letters if they want to.
 SK: Vylepšenie sa umožnilo vďaka: FontForge: https://fontforge.org/en-US/
 
 EN: It was upgraded thanks to: FontForge: https://fontforge.org/en-US/
-<img width="1000" height="273" alt="Prezentacia_SK_pismen" src="https://github.com/user-attachments/assets/bf96263b-5730-4ab9-8714-350a4b886623" />
+<img width="1000" height="273" alt="Prezentacia_SK_pismen" src="https://github.com/user-attachments/assets/75c86605-4a9d-4bc0-b28f-e65b5b12358c" />
